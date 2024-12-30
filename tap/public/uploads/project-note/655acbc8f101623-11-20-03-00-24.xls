@@ -1,0 +1,32 @@
+
+           <table class="table table-striped datatable-responsive">
+          <thead>
+            <tr class="bg-teal-400">
+              <th width="3%">SL No</th>
+              <th>Name</th>
+              <th>Email Id</th>
+              <th>Mobile No</th>
+              <th>Created At</th>
+            </tr>
+          </thead>
+          <tbody>
+                        <tr>
+                 <td>1</td>
+                 <td>Test User</td>
+                 <td>test@testmail.com</td>
+                 <td></td>
+                 <td>12-Nov-2023, 10:53 pm</td>
+              </tr>
+                
+                              <tr>
+                 <td>2</td>
+                 <td>Test User2</td>
+                 <td>test2@testmail.com</td>
+                 <td>+911123456789</td>
+                 <td>13-Nov-2023, 12:25 am</td>
+              </tr>
+                
+                
+            </tbody>
+          </table>
+        
